@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "missingNum",
+            "request": "launch",
+            "mainClass": "src.Sorting.missingNum",
+            "projectName": "#1.DSA-JAVA_63d252e4"
+        },
+        {
+            "type": "java",
             "name": "cyclicSort",
             "request": "launch",
             "mainClass": "src.Sorting.cyclicSort",
